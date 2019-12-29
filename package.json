@@ -1,5 +1,5 @@
 {
-  "name": "custom-mob",
+  "name": "custom-mobx",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
